@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Waspar",
+      "authorEmail": "waspar@bk.ru",
+      "authorUrl": "https://github.com/waspar"
+    }
+  }
+}
